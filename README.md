@@ -12,7 +12,6 @@ green-earth-frontend repository.
 ```bash
 $ npm install
 ```
-Cancel changes
 ## Running the app
 
 ```bash
