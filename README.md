@@ -1,2 +1,17 @@
-# green-earth-frontend
-그린어스 블록체인 랜딩페이지
+<p align="center">green-earth-frontend</p>
+
+## Description
+
+green-earth-frontend repository.
+
+## Installation
+
+```bash
+$ npm install
+```
+Cancel changes
+## Running the app
+
+```bash
+$ npm start
+```
