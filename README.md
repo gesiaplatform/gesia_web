@@ -1,2 +1,19 @@
 # green-earth-frontend
-그린어스 블록체인 랜딩페이지
+
+[https://blockchain.wafflestay.kr](https://blockchain.wafflestay.kr)
+
+
+## Description
+
+green-earth-frontend repository.
+
+## Installation
+
+```bash
+$ npm install
+```
+## Running the app
+
+```bash
+$ npm start
+```
