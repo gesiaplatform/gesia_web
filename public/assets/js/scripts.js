@@ -1012,7 +1012,6 @@ NioApp = function (NioApp, $, window, document) {
 	};
 	NioApp.components.docReady.push(NioApp.Plugins.dataTable);
 
-    
 	return NioApp;
 }(NioApp, jQuery, window, document);
 /* END @iO */
