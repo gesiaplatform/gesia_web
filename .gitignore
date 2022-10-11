@@ -103,9 +103,13 @@ dist
 # TernJS port file
 .tern-port
 
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 # custom
-.eslintrc.*
-.prettierrc.*
-package-lock.json
 .env*
-.vscode
+package-lock.json
